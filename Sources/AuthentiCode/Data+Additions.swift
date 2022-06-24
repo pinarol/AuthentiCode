@@ -17,6 +17,5 @@ extension Data {
             indexIsEven.toggle()
         }
         return data
-
     }
 }

@@ -162,7 +162,7 @@ public class OCRA {
         }
         
         // Put the bytes of "password" to the message
-        if passwordLength > 0, let passwordData =  Data.fromHex(password) {
+        if passwordLength > 0, let passwordData = Data.fromHex(password) {
             mutableData.append(passwordData)
         }
         
