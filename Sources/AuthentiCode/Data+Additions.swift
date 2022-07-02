@@ -2,7 +2,7 @@ import Foundation
 
 extension Data {
     
-    public static func fromHex(_ string: String) -> Data? {
+    static func fromHex(_ string: String) -> Data? {
         var data = Data(capacity: string.count / 2)
         var indexIsEven = true
         for i in string.indices {
