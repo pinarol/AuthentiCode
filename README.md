@@ -41,5 +41,5 @@ print("OCRA: \(ocra)")
 
 ```
 
-Check out unit tests for tests for further examples.
+Check out unit tests for further examples.
 
